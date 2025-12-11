@@ -1,16 +1,19 @@
-# mvpproject
+https://subscription-app-10e39.web.app/
 
-A new Flutter project.
+# Hosting ↑↑↑↑↑↑↑
 
-## Getting Started
+---
+## The idea behind this app is to help people better manage and renew subscriptions and memberships for various services and establishments.
+**What can I do?**
+- Track subscriptions
+- Refill subscriptions
+- View Recommendations
+- Receive notifications about overdue payments
 
-This project is a starting point for a Flutter application.
+**In the future:**
+- Add subscriptions
+- Search for services by city
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+My project is in the Mobile Development category.
