@@ -1,19 +1,26 @@
-https://subscription-app-10e39.web.app/
 
-# Hosting ↑↑↑↑↑↑↑
 
----
-## The idea behind this app is to help people better manage and renew subscriptions and memberships for various services and establishments.
-**What can I do?**
+
+# Subscription Management App
+
+Hosting: [View Online](https://subscription-app-10e39.web.app/)
+
+This is a mobile development project aimed at helping users manage their subscriptions and memberships for various services.
+
+## 📌 Features
+**Current:**
 - Track subscriptions
 - Refill subscriptions
-- View Recommendations
+- View recommendations
 - Receive notifications about overdue payments
 
-**In the future:**
-- Add subscriptions
+**Planned:**
+- Add new subscriptions
 - Search for services by city
+- 🛠 Tech Stack
+- Flutter / Dart
+- Firebase (if used for backend/auth/data storage, уточни)
+- Responsive UI for mobile devices
 
----
-
-My project is in the Mobile Development category.
+**🎯 Category**
+- Mobile Development
